@@ -1,0 +1,25 @@
+color and type of shps
+start screen
+instruction
+boss 
+highscore(who finished the game the fastest)
+sound effects
+score
+thrust fire
+if rock is destroyed, make little dot that spread around it but for a short amount of time
+alien ship
+rock ram in to rock
+special powers(abilties/powerups): bullet spam, thrust boost, big bullets, invincible...
+settings
+pause/start
+choose color and type of ship and bullets, shoot three bullets at a time
+amo and power chest
+ship upgrade
+level
+duo squad
+
+learn while loop for java
+
+
+https://docs.oracle.com/javase/6/docs/api/
+scientific calculator
